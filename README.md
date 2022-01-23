@@ -1,1 +1,1 @@
-# FB-Friend-Reccomendation
+# FB-Friend-Recommendation
